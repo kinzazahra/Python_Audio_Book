@@ -1,5 +1,4 @@
 Flask
-pyttsx3
-PyPDF2
-PyMuPDF
 gunicorn
+pyttsx3
+PyMuPDF

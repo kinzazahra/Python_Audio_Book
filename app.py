@@ -6,7 +6,7 @@ import datetime # Added for the cache-busting function
 
 app = Flask(__name__)
 
-# Ensure output directory for static files and uploads
+#Ensure output directory for static files and uploads
 os.makedirs("static", exist_ok=True)
 os.makedirs("uploads", exist_ok=True)
 
